@@ -1,0 +1,11 @@
+window_sizes 1350 787 337 1003 513 176
+diagrams
+  active  classdiagram_ref 128043 // classDiagr
+    802 410 100 4 0 0
+end
+show_stereotypes
+selected attribute_ref 128043 // name
+open
+  class_ref 128043 // User
+end
+end
